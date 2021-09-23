@@ -31,6 +31,7 @@ body{
 #summary h2{
     color:white;
     font-size: 4.5rem;
+    margin-bottom:0.5rem;
 }
 #summary article{
     position:absolute;
@@ -71,4 +72,11 @@ main{
     box-sizing: border-box;
     box-shadow:  2px 8px rgb(44, 43, 43);
     border-radius: 5px;
+}
+
+.tags {
+    background-color: white;
+    color:purple;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem ;
+    border-radius: 8px;
 }
